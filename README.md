@@ -1,12 +1,19 @@
-# SMBF-tools
-Tools For BruteForce-IG.
+## SMBF-tools
 
-How to install :
-$pkg install git
-$pkg install python2
-$git clone https://github.com/kyzenx/SMBF-tools
-$cd SMBF-tools
-$chmod +x install.sh
-$chmod +x smbf.py
-$bash install.sh
-$python2 smbf.py [username] [thread] [password.txt]
+## SMBF-tools info
+This project is simple and fastest ig bruteforce ever.	
+	
+## Setup
+To run this project, install it using termux:
+
+```
+$ pkg install git
+$ pkg install python2
+$ pip2 install requests
+$ git clone https://github.com/kyzenx/SMBF-tools
+$ cd
+$ chmod +x install.sh
+$ chmod +x smbf.py
+$ bash install.sh
+$ python2 smbf.py [username] [no.threads] [password]
+```
